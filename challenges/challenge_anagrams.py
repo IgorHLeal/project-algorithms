@@ -43,4 +43,4 @@ def is_anagram(first_string, second_string):
     )
 
 
-# Referência: Exercícios(exercício 3 especif...) e conteúdo do dia 3 da seção 4
+# Referência: Exercícios(exercício 4 especif...) e conteúdo do dia 3 da seção 4
